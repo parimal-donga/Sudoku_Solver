@@ -1,0 +1,90 @@
+
+.a1{
+	height:36.9333px;
+	width:36.9333px;
+	text-align: center;
+	padding: 2px;
+	margin: 2px;
+	border-radius: 18%;
+	color: #132743;
+	background-color: #f8efd4;
+	font-family:  cursive;
+}
+.a2 tr td input{ 
+	background-color: #edc988;
+}
+.a1:hover{
+	cursor: text;
+	
+}
+body{
+	background-color: #222222;
+}
+
+h1,h2{
+	color:  #ffffff;
+}
+h1{
+	font-size: 25px;
+	
+}
+ .h12{
+	font-size: 50px;
+	padding: 0;
+	margin-bottom: -10px;
+ }
+.outer{
+	background-color: #d7385e;
+	width:440.4px;
+   height: 440.4px;
+	border-radius: 5%;
+	padding : 5px;
+}
+
+.container{
+	display: flex;
+	justify-content:space-evenly;
+
+}
+.Note{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	vertical-align: center;
+	width: 31vw;
+	text-align: justify;
+	font-family:  cursive;
+	
+}
+.Note h1{
+	font-size: 25px;
+}
+.note1{
+	color: #d7385e;
+	font-weight: 600;
+	font-size: 25px;
+
+}
+.note2{
+	color: #f8efd4;
+	letter-spacing: .5px;
+}
+
+.button{
+	margin: 10px;
+	width: 80px;
+	height: 30px;
+	border-radius: 10px;
+	margin-left: 330px;
+	color: #132743;
+	font-weight: 700;
+	font-size: 15px;
+	background-color:#f8efd4;
+	font-family:'Piedra', cursive;
+}
+
+.copy{
+	color :#f8efd4;
+	font-size: 14px;
+	font-family: 'Haettenschweiler', 'Arial Narrow Bold', sans-serif
+}
